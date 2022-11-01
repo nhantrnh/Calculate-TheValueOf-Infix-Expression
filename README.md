@@ -1,9 +1,8 @@
 # Midterm
-Tính giá trị biểu thức trung tố- Require:
-- Nội dung bài tập:
-   . Cho biểu thức trung tố được lưu trữ trên tập tin văn bản infix.txt. Biểu thức được viết trên 1 dòng và kết
+Tính giá trị biểu thức trung tố.
+Nội dung bài tập: Cho biểu thức trung tố được lưu trữ trên tập tin văn bản infix.txt. Biểu thức được viết trên 1 dòng và kết
 thúc bởi 1 enter. Các toán hạng, toán tử và dấu thay đổi ưu tiên toán tử cách nhau bởi 1 khoảng trắng.
-- Hãy:
+Hãy:
 - Đọc chuỗi biểu thức từ tập tin.
 - Kiểm tra tính hợp lệ của biểu thức.
 - Tính giá trị của biểu thức (nếu hợp lệ).
